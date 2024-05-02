@@ -1,5 +1,5 @@
 <h3>History [수행과정]</h3>
-<image src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/20029bcf-6e02-4f49-94bc-5ab277e5dca6"></image>
+<image src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/6f50a836-6526-4cc3-88e1-ef744f3ab050"></image>
 <hr/>
 
 <h3>SoftWare Environment [소프트웨어 환경]</h3>
