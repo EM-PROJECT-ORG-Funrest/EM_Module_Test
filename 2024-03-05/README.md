@@ -31,3 +31,14 @@ manager & Non-members
 <h3>Usecase Diagram [유스케이스 다이어그램]</h3>
 <image src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/2afed7b6-771b-406d-a2c4-20c7131f86d2"> 
 <hr/>
+
+<h3> Requirements Create, Read, Update, Delete(CRUD) [요구사항 CRUD]</h3>
+seller & buyer
+<image src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/2701453b-0ecc-4e9c-8e3e-f25bfb5ab88a"> 
+<hr/>
+
+<h3> Requirements Create, Read, Update, Delete(CRUD) [요구사항 CRUD]</h3>
+manager & Non-members
+<image src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/4ba2d152-094e-4ef5-8b1c-cc255ba2fa9c"> 
+<hr/>
+
