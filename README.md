@@ -202,4 +202,4 @@ C:.
                             update.jsp
                             
 
- 
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=cde4ad&height=150&section=footer" />
