@@ -27,20 +27,40 @@ LOGO
 
 <br><br><br><br><br>
 
-팀원구성
+MEMBER
 ---
 
  
 <p>
- <a href="https://github.com/ANJIYUN98"><img src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/155033351/c07a83ea-a788-41c6-8f10-902fc0397add" width="50" height="50" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+ <a href="https://github.com/rbghrla"><img src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/155033351/c07a83ea-a788-41c6-8f10-902fc0397add" width="50" height="50" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
  <a href="https://github.com/ANJIYUN98"><img src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/155033351/c07a83ea-a788-41c6-8f10-902fc0397add" width="50" height="50" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://github.com/ANJIYUN98"><img src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/155033351/c07a83ea-a788-41c6-8f10-902fc0397add" width="50" height="50" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://github.com/ANJIYUN98"><img src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/155033351/c07a83ea-a788-41c6-8f10-902fc0397add" width="50" height="50" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://github.com/okeunjin"><img src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/155033351/c07a83ea-a788-41c6-8f10-902fc0397add" width="50" height="50" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://github.com/hongjaeseong"><img src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/155033351/c07a83ea-a788-41c6-8f10-902fc0397add" width="50" height="50" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<a href="https://github.com/rbghrla">김규호</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/ANJIYUN98">안지윤</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/okeunjin">옥은진</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/hongjaeseong">홍재성</a>
+<a href="https://github.com/rbghrla">김규호</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/ANJIYUN98">안지윤</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/okeunjin">옥은진</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/hongjaeseong">홍재성</a> 
 
+<br><br>
 
-<br><br><br><br><br>
+ |NAME|ROLE|DETAILS|DESCRIPTION|
+ |-|-|-|-|
+ |김규호|-|-|-|
+ |안지윤|-|-|-|
+ |옥은진|-|-|-|
+ |홍재성|-|-|-|
+
+<br><br><br><br>
+
+HISTORY
+---
+ |DATE|OBJECT|
+ |-|-|
+ |-|-|
+ |-|-|
+ |-|-|
+ |-|-|
+ |-|-|
+
+<br><br><br><br>
 
 PLANS
 ---
@@ -49,17 +69,6 @@ PLANS
  |DB설계|-|-|-|
  |FRONT-END|-|-|-|
  |BACK-END|-|-|-|
-
-<br><br><br><br>
-
-MEMBERS
----
- |NAME|ROLE|DETAILS|DESCRIPTION|
- |-|-|-|-|
- |김규호|-|-|-|
- |안지윤|-|-|-|
- |옥은진|-|-|-|
- |홍재성|-|-|-|
 
 <br><br><br><br>
 
