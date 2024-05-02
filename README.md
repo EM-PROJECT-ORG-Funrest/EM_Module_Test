@@ -11,7 +11,7 @@ DEVELOPMENT MOTIVATION
 > > - 도서 : 도서를 출판하고 싶은 작가들의 줄거리를 보고 구매자들이 펀딩하여 도서 출판<br>
 > > - 뮤지컬 & 연극 : 극장이 멀어 직접 관람하지 못한 구매자들이 펀딩하여 녹화본을 받아 볼 수 있도록 함 ( 녹화물에 대한 녹화, 배포 안됨)
 
-<br><br><br><br><br>
+<br><br><br><br>
 
 LOGO
 ---
@@ -28,7 +28,7 @@ HISTORY
 [TOTAL] | [김규호] | [안지윤] | [옥은진] | [홍재성] |
 -
 
-<br><br><br><br><br>
+<br><br><br><br>
 
 PLANS
 ---
@@ -38,7 +38,7 @@ PLANS
  |FRONT-END|-|-|-|
  |BACK-END|-|-|-|
 
-<br><br><br><br><br>
+<br><br><br><br>
 
 MEMBERS
 ---
@@ -49,7 +49,7 @@ MEMBERS
  |옥은진|-|-|-|
  |홍재성|-|-|-|
 
-<br><br><br><br><br>
+<br><br><br><br>
 
 
 SKILLS
@@ -74,7 +74,7 @@ SKILLS
 <img alt="git" src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"> <img alt="github" src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github2&logoColor=white"> <img alt="notion" src ="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
 <img alt="slack" src ="https://img.shields.io/badge/slack-481449.svg?&style=for-the-badge&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
 
-<br><br><br><br><br>
+<br><br><br><br>
 
 END POINT DOC
 ---
@@ -91,7 +91,7 @@ END POINT DOC
 |-|-|-|-|-|
 |-|-|-|-|-|
 
-
+<br><br><br><br>
 
 DEPENDENCIES LIST
 ---
@@ -104,11 +104,12 @@ DEPENDENCIES LIST
 |DB|-|-|-|-|-|
 |DEVOPS|-|-|-|-|-|
 
+<br><br><br><br>
 
 ERD[]
 ---
 
-<br><br><br><br><br>
+<br><br><br><br>
 
 
 FILE TREES[JSP/SERVLET]
