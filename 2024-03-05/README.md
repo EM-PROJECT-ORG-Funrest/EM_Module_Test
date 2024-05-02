@@ -20,5 +20,5 @@
 
 <h3>Software Requirements Specification(SRS) [요구사항 명세서]</h3>
 seller & buyer
-https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/a993ca66-c6a2-4e66-a310-849332906dc7
+<image src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/a993ca66-c6a2-4e66-a310-849332906dc7"> 
 <hr/>
