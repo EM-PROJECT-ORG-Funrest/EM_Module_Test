@@ -12,3 +12,23 @@ DEVELOPMENT MOTIVATION
 
 HISTORY
 ---
+[TOTAL] | [김규호] | [안지윤] | [옥은진] | [홍재성] |
+-
+
+PLANS
+---
+ |LANGUAGE|PLAN|IMPLEMENT|DESCRIPTION|
+ |-|-|-|-|
+ |DB설계|-|-|-|
+ |FRONT-END|-|-|-|
+ |BACK-END|-|-|-|
+
+ MEMBERS
+ ---
+ |NAME|ROLE|DETAILS|DESCRIPTION|
+ |-|-|-|-|
+ |김규호|-|-|-|
+ |안지윤|-|-|-|
+ |옥은진|-|-|-|
+ |홍재성|-|-|-|
+ 
