@@ -9,3 +9,10 @@
 <h3>HardWare Environment</h3>
 <image src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/f6f255ad-35db-4675-987e-413e6390a6cf"></image>
 <hr/>
+
+<h3>Operation System(OS)</h3>
+<image src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/3e2dc21e-74a3-4428-9292-d652bec282a1"></image>
+<hr/>
+
+<h3>DataBase(DB)</h3>
+<hr/>
