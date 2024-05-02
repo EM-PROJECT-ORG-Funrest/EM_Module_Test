@@ -4,7 +4,7 @@
 <hr/>
 
 <h2>Class Diagram 구체화</h2>
-Dao classes
+<h4>Dao classes</h4>
 <img src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/6166363c-40b3-4f3c-a741-c0f3ec0a44af"/>  
 <hr/>
 
