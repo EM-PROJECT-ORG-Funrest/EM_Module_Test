@@ -1,9 +1,6 @@
 <h2> FILE TREE</h2>
-FILE TREES[JSP/SERVLET]
 ---
-```
-
-                            
+```                       
 ```
 ---
 Windows 볼륨에 대한 폴더 경로의 목록입니다.
