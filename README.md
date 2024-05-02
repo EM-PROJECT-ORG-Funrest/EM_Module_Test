@@ -29,7 +29,7 @@ LOGO
 
 팀원소개
 ---
-| [김규호](https://github.com/rbghrla) | [안지윤] | [옥은진] | [홍재성] |
+[김규호][<img src=126174649.jpg>](https://github.com/rbghrla) | [안지윤](https://github.com/ANJIYUN98) | [옥은진](https://github.com/okeunjin) | [홍재성](https://github.com/hongjaeseong) |
 -
 
 <br><br><br><br>
