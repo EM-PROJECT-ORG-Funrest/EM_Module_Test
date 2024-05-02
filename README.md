@@ -12,6 +12,11 @@ DEVELOPMENT MOTIVATION
 > > - 뮤지컬 & 연극 : 극장이 멀어 직접 관람하지 못한 구매자들이 펀딩하여 녹화본을 받아 볼 수 있도록 함 ( 녹화물에 대한 녹화, 배포 안됨)<br>
 
 
+LOGO
+---
+<img src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/155033351/e12e128d-1019-4856-9aa0-4a1af2ce732f">
+
+
 HISTORY
 ---
 [TOTAL] | [김규호] | [안지윤] | [옥은진] | [홍재성] |
