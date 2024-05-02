@@ -9,8 +9,9 @@ DEVELOPMENT MOTIVATION
 > 상세 설명 <br>
 > > - 영화 : 이미 개봉하여 영화관에서 볼 수 없는 영화를 다시 보기위해 펀딩을 하여 재개봉<br>
 > > - 도서 : 도서를 출판하고 싶은 작가들의 줄거리를 보고 구매자들이 펀딩하여 도서 출판<br>
-> > - 뮤지컬 & 연극 : 극장이 멀어 직접 관람하지 못한 구매자들이 펀딩하여 녹화본을 받아 볼 수 있도록 함 ( 녹화물에 대한 녹화, 배포 안됨)<br><br><br><br><br>
+> > - 뮤지컬 & 연극 : 극장이 멀어 직접 관람하지 못한 구매자들이 펀딩하여 녹화본을 받아 볼 수 있도록 함 ( 녹화물에 대한 녹화, 배포 안됨)
 
+<br><br><br><br><br>
 
 LOGO
 ---
@@ -19,15 +20,15 @@ LOGO
 > - 프로젝트의 취지에 부합하게 Fund의 Fun과 문화생활을 이용함으로써 느낄 수 있는 편안함의 rest를 결합하여 funrest라는 프로젝트명을 만들었습니다. <br>
 > 또한 문화의 다양성을 숲에 비유하여 forest라는 단어도 연상할 수 있도록 하였습니다.
 > - 로고의 나무 부분은 숲 속의 나무가 대문자 F로 연상되도록 그려봤습니다.
-<br><br><br><br><br>
 
+<br><br><br><br><br>
 
 HISTORY
 ---
 [TOTAL] | [김규호] | [안지윤] | [옥은진] | [홍재성] |
 -
-<br><br><br><br><br>
 
+<br><br><br><br><br>
 
 PLANS
 ---
@@ -36,8 +37,8 @@ PLANS
  |DB설계|-|-|-|
  |FRONT-END|-|-|-|
  |BACK-END|-|-|-|
-<br><br>
 
+<br><br><br><br><br>
 
 MEMBERS
 ---
@@ -47,7 +48,8 @@ MEMBERS
  |안지윤|-|-|-|
  |옥은진|-|-|-|
  |홍재성|-|-|-|
-<br><br>
+
+<br><br><br><br><br>
 
 
 SKILLS
@@ -71,8 +73,8 @@ SKILLS
 ---
 <img alt="git" src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"> <img alt="github" src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github2&logoColor=white"> <img alt="notion" src ="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
 <img alt="slack" src ="https://img.shields.io/badge/slack-481449.svg?&style=for-the-badge&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
-<br><br>
 
+<br><br><br><br><br>
 
 END POINT DOC
 ---
@@ -105,7 +107,8 @@ DEPENDENCIES LIST
 
 ERD[]
 ---
-<br><br>
+
+<br><br><br><br><br>
 
 
 FILE TREES[JSP/SERVLET]
@@ -217,7 +220,8 @@ C:.
                             list.jsp
                             update.jsp
                             
-```<br><br><br>
+```
+<br><br><br><br><br><br><br>
 
 
  <img src="https://capsule-render.vercel.app/api?type=waving&color=cde4ad&height=150&section=footer" />
