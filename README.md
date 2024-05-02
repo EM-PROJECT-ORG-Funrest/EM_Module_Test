@@ -40,7 +40,7 @@ LOGO
 <a href="https://github.com/rbghrla">김규호</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/ANJIYUN98">안지윤</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/okeunjin">옥은진</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/hongjaeseong">홍재성</a>
 
 
-<br><br><br><br>
+<br><br><br><br><br>
 
 PLANS
 ---
