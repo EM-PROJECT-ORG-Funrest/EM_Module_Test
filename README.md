@@ -17,7 +17,7 @@ LOGO
 ---
 <img src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/155033351/e12e128d-1019-4856-9aa0-4a1af2ce732f">
 
-> - 프로젝트의 취지에 부합하게 __Fund__의 __Fun__과 문화생활을 이용함으로써 느낄 수 있는 편안함의 __rest__를 결합하여 __funrest__라는 프로젝트명을 만들었습니다. <br>
+> - 프로젝트의 취지에 부합하게 Fund의 Fun과 문화생활을 이용함으로써 느낄 수 있는 편안함의 rest를 결합하여 funrest라는 프로젝트명을 만들었습니다. <br>
 > 또한 문화의 다양성을 숲에 비유하여 forest라는 단어도 연상할 수 있도록 하였습니다.
 > - 로고의 나무 부분은 숲 속의 나무가 대문자 F로 연상되도록 그려봤습니다.
 >
@@ -27,9 +27,9 @@ LOGO
 
 <br><br><br><br><br>
 
-HISTORY
+팀원소개
 ---
-[TOTAL] | [김규호] | [안지윤] | [옥은진] | [홍재성] |
+| [김규호](https://github.com/rbghrla) | [안지윤] | [옥은진] | [홍재성] |
 -
 
 <br><br><br><br>
