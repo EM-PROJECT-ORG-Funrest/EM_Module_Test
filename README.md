@@ -50,7 +50,7 @@ SKILLS
 
 ### DevOps
 ---
-<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github2&logoColor=white"> <img alt="notion" src ="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
-<img alt="slack" src ="https://img.shields.io/badge/slack-purple.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
+<img alt="git" src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"> <img alt="github" src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github2&logoColor=white"> <img alt="notion" src ="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
+<img alt="slack" src ="https://img.shields.io/badge/slack-#481449.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
 
  
