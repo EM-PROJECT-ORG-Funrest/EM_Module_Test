@@ -29,8 +29,8 @@ LOGO
 
 팀원소개
 ---
-[김규호](https://github.com/rbghrla) | <a href=![image](https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/155033351/8ed5793d-20ad-49f0-84bc-71422ddfe649)
-></a>(https://github.com/ANJIYUN98) | [옥은진](https://github.com/okeunjin) | [홍재성](https://github.com/hongjaeseong) |
+[김규호](https://github.com/rbghrla) | <a href="[https://github.com/ANJIYUN98]"><img src="![image](https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/155033351/061f4f92-bd4d-4b8d-be6f-7bebb41db8e7)
+"/></a> | [옥은진](https://github.com/okeunjin) | [홍재성](https://github.com/hongjaeseong) |
 -
 ![Uploading image.png…]()
 
