@@ -22,3 +22,12 @@
 seller & buyer
 <image src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/a993ca66-c6a2-4e66-a310-849332906dc7"> 
 <hr/>
+
+<h3>Software Requirements Specification(SRS) [요구사항 명세서]</h3>
+manager & Non-members
+<image src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/8497fee9-4eec-4fc1-b786-961e2a19bfc5"> 
+<hr/>
+
+<h3>Usecase Diagram [유스케이스 다이어그램]</h3>
+<image src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/2afed7b6-771b-406d-a2c4-20c7131f86d2"> 
+<hr/>
