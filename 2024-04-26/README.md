@@ -6,7 +6,17 @@
 페이지 사진
 ---
 MainPage
+
 <img src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/f758e576-a7bf-445c-a69d-41e98be5dd97"></img>
+
+UpdatePage
+
+<img src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/967bf378-b758-4332-9bb2-8ec676aa4e84"></img>
+
+InsertPage
+
+<img src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/e1542352-b3d9-4349-b689-6f59b360fa09"></img>
+
 
 
 File Tree
