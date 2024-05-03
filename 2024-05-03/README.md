@@ -1,4 +1,4 @@
-Entity Relationship Diagram(ERD)
+![키워드별 조회](https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/a70f396d-ff6e-42d7-a8a1-9ba9ae96c0fb)Entity Relationship Diagram(ERD)
 ---
 <img src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/b28d03bc-f5bf-4b9e-a16b-52a9d2b4ba74"></img>
 
@@ -11,4 +11,18 @@ Class Diagram
 MVC Pattern
 ---
 <img src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/eadfb68a-9a54-4794-8648-f5fd0415dfb7"></img>
+
+Product CRUD 구현
+---
+- 이전 회차에 진행했던 모듈 수정 작업 수행
+- 상품에 대한 [조회(키워드별, 전체), 삽입, 수정, 삭제] 기능 구현
+- 페이징 처리 기능 구현
+
+Main View
+---
+<img src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/8c464d16-b6d0-4381-b231-2578ce50932e"></img>
+
+Select Service
+---
+<img src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/6f0af688-7bc4-489c-8563-13550193ffc0"></img>
 
