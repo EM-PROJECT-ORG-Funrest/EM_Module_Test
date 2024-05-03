@@ -1,6 +1,13 @@
+상품관련 CRUD
+ `GD_CODE`,  `GD_NM`,  `FMLY_PRCE`, `SPLY_CO_NM`, `OGPL_NM`
+
+ 상품 정보에 대한 테이블 생성 후 [조회, 삽입, 수정, 삭제] 가능
+
 File Tree
 ---
 ```
+Windows 볼륨에 대한 폴더 경로의 목록입니다.
+볼륨 일련 번호는 B088-B8B1입니다.
 C:.
 ├─build
 │  └─classes
@@ -106,5 +113,3 @@ C:.
                             
 
 ```
-
-
