@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=funrest%20project&fontSize=90&fontColor=black) <hr>
+![header](https://capsule-render.vercel.app/api?type=venom&color=84e0b1&height=300&section=header&text=funrest%20project&fontSize=90&fontColor=black) <hr>
 
 
 DEVELOPMENT MOTIVATION
@@ -54,9 +54,11 @@ HISTORY
 ---
  |DATE|OBJECT|
  |-|-|
- |-|-|
- |-|-|
- |-|-|
+ |2024-03-05|[요구사항확인](2024-03-05)
+ |2024-03-27|[애플리케이션 설계](2024-03-27)|
+ |2024-04-08|[인터페이스 구현](2024-04-08)|
+ |2024-04-26|[서버프로그램 구현](2024-04-26)|
+ |2024-05-03|[통합 구현](2024-05-03)|
  |-|-|
  |-|-|
 
