@@ -5,4 +5,4 @@ Entity Relationship Diagram(ERD)
 Class Diagram
 ---
 <img src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/8f3d9787-f295-48bc-9736-f853e520483e"></img>
-<img src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/017e9d58-ee62-4262-a0fd-33fab757e0b0"></img>
+  <img src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/017e9d58-ee62-4262-a0fd-33fab757e0b0"></img>
