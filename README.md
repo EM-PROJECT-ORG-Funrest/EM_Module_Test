@@ -15,7 +15,7 @@ DEVELOPMENT MOTIVATION
 
 LOGO
 ---
-<img src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/155033351/e12e128d-1019-4856-9aa0-4a1af2ce732f">
+<div align="center"><img src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/155033351/e12e128d-1019-4856-9aa0-4a1af2ce732f" width="700"></div>
 
 > - 프로젝트의 취지에 부합하게 Fund의 Fun과 문화생활을 이용함으로써 느낄 수 있는 편안함의 rest를 결합하여 funrest라는 프로젝트명을 만들었습니다. <br>
 > 또한 문화의 다양성을 숲에 비유하여 forest라는 단어도 연상할 수 있도록 하였습니다.
