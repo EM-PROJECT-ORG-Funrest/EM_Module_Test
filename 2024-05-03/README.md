@@ -1,9 +1,9 @@
-Product CRUD 구현
+Product CRUD 구현 & ERD, MVC Pattern, Class Diagram 구현
 ---
 - 이전 회차에 진행했던 모듈 수정 작업 수행
 - 상품에 대한 [조회(키워드별, 전체), 삽입, 수정, 삭제] 기능 구현
 - 페이징 처리 기능 구현
-
+- 현재 제출 자료에 대한 ERD, MVC Pattern, Class Diagram 구현
 <hr/>
 
 Entity Relationship Diagram(ERD)
@@ -43,5 +43,17 @@ Insert Service
 <img src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/560da78b-b1bd-4026-b69e-a0d85d6ca236"></img>
 <img src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/568666ef-31df-476a-8724-fe03c89d5694"></img>
 
+<hr/>
+
+Insert Service
+---
+<img src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/d67012d7-4f53-464b-ad88-78ccd2f7bc8e"></img>
+<img src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/eaf28236-0b89-4438-84bf-0fdbce419962"></img>
+
+<hr/>
+
+Delete Service(Main View 시점과 비교)
+---
+<img src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/d8bcb918-037e-48a2-a832-615ec38b7fe9"></img>
 
 <hr/>
