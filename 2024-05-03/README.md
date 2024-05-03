@@ -4,7 +4,7 @@ Product CRUD 구현 & ERD, MVC Pattern, Class Diagram 구현
 - 상품에 대한 `[조회(키워드별, 전체), 삽입, 수정, 삭제]` 기능 구현
 - 페이징 처리 기능 구현
 - 현재 제출 자료에 대한 `ERD`, `MVC Pattern`, `Class Diagram` 구현
-- FILE-TREE 제출
+- `FILE-TREE` 제출
 <hr/>
 
 Entity Relationship Diagram(ERD)
