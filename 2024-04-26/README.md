@@ -3,6 +3,11 @@
 
  상품 정보에 대한 테이블 생성 후 [조회, 삽입, 수정, 삭제] 가능
 
+페이지 사진
+---
+MainPage
+<img src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/f758e576-a7bf-445c-a69d-41e98be5dd97"></img>
+
 
 File Tree
 ---
