@@ -1,4 +1,4 @@
-![키워드별 조회](https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/a70f396d-ff6e-42d7-a8a1-9ba9ae96c0fb)Entity Relationship Diagram(ERD)
+Entity Relationship Diagram(ERD)
 ---
 <img src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/b28d03bc-f5bf-4b9e-a16b-52a9d2b4ba74"></img>
 
