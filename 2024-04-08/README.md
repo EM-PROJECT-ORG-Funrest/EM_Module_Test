@@ -1,6 +1,9 @@
 맴버와 알림 서비스에 대한 CRUD 구현 <br/>
 ---
-
+- controller 와 service 는 interface 구현 <br/>
+- 컬럼명 : (1) Member :  `id`, `pw`, `name`, `addr`, `tel`, `authority` <br/>
+-           (2) Notify :  `id`, `notifyCode`, `notifyDate` <br/>
+- 맴버, 알림에 대한 테이블 생성 후 [조회, 삽입, 수정, 삭제] 가능 <br/>
 
 
 
