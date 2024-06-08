@@ -68,9 +68,9 @@ PLANS
 ---
  |LANGUAGE|PLAN|IMPLEMENT|DESCRIPTION|
  |-|-|-|-|
- |DB설계|-|-|-|
- |FRONT-END|-|-|-|
- |BACK-END|-|-|-|
+ |DB설계|2024.05.03|-|-|
+ |FRONT-END|2024.05.03 ~ 2024.05.22|-|-|
+ |BACK-END|2024.05.23 ~ |-|-|
 
 <br><br><br><br>
 
