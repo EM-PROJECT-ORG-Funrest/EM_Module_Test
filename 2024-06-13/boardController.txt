@@ -1,0 +1,36 @@
+package com.example.demo.controller;
+
+
+import com.example.demo.domain.dto.BoardDto;
+import lombok.extern.slf4j.Slf4j;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.*;
+
+@Controller
+@RequestMapping("/board")
+@Slf4j
+public class BoardController {
+
+    @GetMapping("/list")
+    public void list(@RequestParam(required = true) Long pageNo){log.info("GET /board/list  pageNo : " + pageNo);}
+
+    @GetMapping("/post")
+    public @ResponseBody  String post_get(){
+        log.info("GET /board/post");
+        return "";
+    }
+
+    @PostMapping("/post")
+    public @ResponseBody String post_post(BoardDto dto){
+        log.info("POST /board/post dto : " + dto);
+        return "";
+    }
+
+    @GetMapping("/update")
+    public @ResponseBody String update_get(BoardDto dto)
+    {
+        log.info("GET /board/update dto : " + dto);
+        return "";
+    }
+}
+

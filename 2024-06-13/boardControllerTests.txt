@@ -1,0 +1,89 @@
+package com.example.demo.controller;
+
+
+import com.example.demo.domain.dto.BoardDto;
+import com.example.demo.domain.dto.MemoDto;
+import com.example.demo.restcontroller.BoardRestController;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Test;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;
+import org.springframework.http.MediaType;
+import org.springframework.test.web.servlet.MockMvc;
+import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
+import org.springframework.test.web.servlet.result.MockMvcResultMatchers;
+
+import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.put;
+import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.print;
+import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
+
+@WebMvcTest(value={BoardController.class, BoardRestController.class})
+public class BoardControllerTests {
+
+    @Autowired
+    private MockMvc mockMvc;
+
+
+    @Test
+    public void boardList_test() throws Exception {
+        // given - 테스트 준비 변수선언 / 입력값 정의
+        BoardDto boardDto =new BoardDto(1L, "TEST1", "NAME1", "CONTENTS1");
+
+        // when - 처리해야하되는 Action을 준비 (Repository, Service)
+
+        // then = 테스트 검증 처리
+        this.mockMvc.perform(
+                MockMvcRequestBuilders
+                        .get("/board/list")
+                        .param("boardDto", String.valueOf(boardDto))
+        ).andExpect(MockMvcResultMatchers.status().isOk()).andDo(print());
+    }
+
+
+    @Test
+    public void boardPost_test() throws Exception {
+        // given - 테스트 준비 변수선언 / 입력값 정의
+        BoardDto boardDto =new BoardDto(2L, "TEST2", "NAME2", "CONTENTS2");
+
+        // when - 처리해야하되는 Action을 준비 (Repository, Service)
+
+        // then = 테스트 검증 처리
+        this.mockMvc.perform(
+                MockMvcRequestBuilders
+                        .post("/board/post")
+                        .param("boardDto", String.valueOf(boardDto))
+        ).andExpect(MockMvcResultMatchers.status().isOk()).andDo(print());
+    }
+
+    @Test
+    public void boardUpdate_test() throws Exception {
+        // given - 테스트 준비 변수선언 / 입력값 정의
+        BoardDto boardDto =new BoardDto(1L, "TEST3", "NAME3", "CONTENTS3");
+
+        // when - 처리해야하되는 Action을 준비 (Repository, Service)
+
+        // then = 테스트 검증 처리
+        this.mockMvc.perform(
+                MockMvcRequestBuilders
+                        .get("/board/update")
+                        .param("boardDto", String.valueOf(boardDto))
+        ).andExpect(MockMvcResultMatchers.status().isOk()).andDo(print());
+    }
+
+    @Test
+    public void boardPut_test() throws Exception {
+        // given - 테스트 준비 변수선언 / 입력값 정의
+        BoardDto boardDto =new BoardDto(4L, "TEST4", "NAME4", "CONTENTS4");
+
+        // when - 처리해야하되는 Action을 준비 (Repository, Service)
+
+        // then = 테스트 검증 처리
+        this.mockMvc.perform(
+                MockMvcRequestBuilders
+                        .put("/board/put")
+                        .contentType(MediaType.APPLICATION_JSON)
+                        .param("boardDto", String.valueOf(boardDto))
+        ).andExpect(MockMvcResultMatchers.status().isOk()).andDo(print());
+    }
+}
