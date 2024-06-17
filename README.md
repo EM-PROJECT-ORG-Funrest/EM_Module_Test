@@ -89,7 +89,8 @@ SKILLS
 
 ### DataBase
 ---
- <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  
+ <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  <img src="https://img.shields.io/badge/REDIS-FF4438?style=for-the-badge&logo=REDIS&logoColor=white">   
+
 
 
 ### DevOps
