@@ -116,6 +116,69 @@ ERD[]
 ---
 <img alt="erd-1" src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/7aaf0f45-fe03-456a-83c8-569f0cd2626e"/>
 <img alt="erd-1" src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/82874e33-12cc-4b18-a86d-e744b2fbcccc"/>
+### tbl_user - tbl_project [N:M 관계]
+
+<aside>
+💡 tbl_user - tbl_project : 한 명의 사용자가 한 개 또는 여러 프로젝트를 구매, 알림 신청할 수 있다. 1:N
+   tbl_project - tbl_user : 한 프로젝트를 한 명 또는 여러 명의 사용자가 구매할 수 있다. 1 :N
+
+
+</aside>
+
+### tbl_user - tbl_notify [1:N 관계]
+
+<aside>
+💡 tbl_user -tbl_notify : 한 명의 사용자가 한 개 또는 여러 알림을 신청할 수 있다. 1:N
+   tbl_notify - tbl_user : 하나의 알림은 여러 사용자를 포함 할 수 없다.
+
+</aside>
+
+### tbl_user - tbl_session [1:1 관계]
+
+<aside>
+💡 tbl_user - tbl_session : 한 명의 사용자는 하나의 세션을 가진다. 1:1
+
+</aside>
+
+### tbl_user - tbl_order [1:N 관계]
+
+<aside>
+💡 tbl_user - tbl_order : 한 명의 사용자가 한 개 또는 여러 주문을 신청할 수 있다. 1:N
+   tbl_order - tbl_user : 하나의 주문은 여러 사용자를 포함 할 수 없다.
+
+</aside>
+
+### tbl_project - tbl_notify [1:N 관계]
+
+<aside>
+💡 tbl_project - tbl_notify : 한 명의 프로젝트는 한 개 또는 여러 알림을 포함할 수 있다. 1:N
+   tbl_notify - tbl_project : 하나의 알림은 여러 프로젝트를 포함 할 수 없다.
+
+</aside>
+
+### tbl_project - tbl_order [N:M 관계]
+
+<aside>
+💡 tbl_project - tbl_order : 한 명의 프로젝트가 한 개 또는 여러 주문을 포함 할 수 있다. 1:N
+   tbl_order - tbl_project : 한 개의 주문에 한 개 또는 여러 프로젝트가 포함 될 수 있다. 1:N
+
+</aside>
+
+### tbl_project - tbl_project_file [1:N 관계]
+
+<aside>
+💡 tbl_project - tbl_project_file : 한 명의 프로젝트가 한 개 또는 여러 프로젝트 파일(이미지)을 포함 할 수 있다. 1:N
+   tbl_project_file - tbl_project : 한 개의 프로젝트 파일(이미지)이 여러개의 프로젝트를 포함 할 수 없다.
+
+</aside>
+
+### tbl_project - tbl_project_subfile [1:N 관계]
+
+<aside>
+💡 tbl_project - tbl_project_subfile : 한 명의 프로젝트가 한 개 또는 여러 프로젝트 서브 파일(이미지)을 포함 할 수 있다. 1:N
+   tbl_project_subfile - tbl_project : 한 개의 프로젝트 서브 파일(이미지)이 여러개의 프로젝트를 포함 할 수 없다.
+
+</aside>
 <br><br><br><br>
 
 
