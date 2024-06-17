@@ -99,23 +99,6 @@ SKILLS
 
 <br><br><br><br>
 
-END POINT DOC
----
-|URI|REQUEST METHOD|REQUEST PARAMETER TYPE|RESPONSE VALUE TYPE|DESCRIPTION
-|-|-|-|-|-|
-|-|-|-|-|-|
-|-|-|-|-|-|
-|-|-|-|-|-|
-|-|-|-|-|-|
-|-|-|-|-|-|
-|-|-|-|-|-|
-|-|-|-|-|-|
-|-|-|-|-|-|
-|-|-|-|-|-|
-|-|-|-|-|-|
-
-<br><br><br><br>
-
 DEPENDENCIES LIST
 ---
 |CAT|NAME|DESCRIPTION|LINK|-|-|
