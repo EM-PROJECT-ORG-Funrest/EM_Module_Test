@@ -66,11 +66,11 @@ HISTORY
 
 PLANS
 ---
- |LANGUAGE|PLAN|IMPLEMENT|DESCRIPTION|
+ |DEVELOP|PLAN|IMPLEMENT|DESCRIPTION|
  |-|-|-|-|
- |DB설계|2024.05.03|-|-|
- |FRONT-END|2024.05.03 ~ 2024.05.22|-|-|
- |BACK-END|2024.05.23 ~ |-|-|
+ |DB설계|2024.05.03|[DB설계](https://github.com/EM-PROJECT-ORG-Funrest/FunRest_Diagrams/blob/main/DB%EC%84%A4%EA%B3%84%20%EB%B0%8F%20ERD.drawio)|-|
+ |FRONT-END|2024.05.03 ~ 2024.05.22|[FRONT-END](https://github.com/EM-PROJECT-ORG-Funrest/FunRest_Project/tree/main/Front)|-|
+ |BACK-END|2024.05.23 ~ |[BACK-END](https://github.com/EM-PROJECT-ORG-Funrest/Funrest_BackEnd)|-|
 
 <br><br><br><br>
 
