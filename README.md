@@ -104,12 +104,25 @@ DEPENDENCIES LIST
 ---
 |CAT|NAME|DESCRIPTION|LINK|-|-|
 |-|-|-|-|-|-|
-|FN|-|-|-|-|-|
-|FN|-|-|-|-|-|
-|BN|-|-|-|-|-|
-|BN|-|-|-|-|-|
-|DB|-|-|-|-|-|
-|DEVOPS|-|-|-|-|-|
+|FN|Bootstrap5|프론트 엔드 프레임워크 및 오픈 소스 프로젝트|<a href="https://getbootstrap.kr/docs/5.0/getting-started/introduction/">Bootstrap v5.0</a>|-|-|
+|FN|Google Fonts|다양한 웹 글꼴을 제공하는 라이브러리|<a href="https://fonts.google.com/icons">Google Fonts</a>|-|-|
+|FN|JQuery|HTML 문서 탐색, 이벤트 처리 등을 제공하는 JavaScript 라이브러리|<a href="https://code.jquery.com/jquery-3.6.0.min.js">JQuery CDN</a>|-|-|
+|FN|AXIOS|비동기 HTTP 요청을 도와주는 JavaScript 라이브러리|<a href="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js">AXIOS CDN</a>|-|-|
+|FN|Thymeleaf|서버사이드 템플릿 엔진(HTML 생성 및 렌더링)|<a href="https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-thymeleaf">Spring Boot Starter Thymeleaf</a>|<a href="https://mvnrepository.com/artifact/nz.net.ultraq.thymeleaf/thymeleaf-layout-dialect">Thymeleaf Layout Dialect</a>|<a href="https://mvnrepository.com/artifact/org.thymeleaf.extras/thymeleaf-extras-springsecurity6">Thymeleaf Extras Springsecurity6</a>|
+|FN|JSTL|JSP에서 사용할 수 있는 태그 라이브러리|<a href="https://mvnrepository.com/artifact/jakarta.servlet.jsp.jstl/jakarta.servlet.jsp.jstl-api">Jakarta Standard Tag Library API</a>|-|-|
+|BN|Spring Boot|스프링 애플리케이션 개발을 도와주는 스타터 패키지|<a href="https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web">Spring Boot Starter Web</a>|<a href="https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-test">Spring Boot Starter Test » 3.3.0</a>|-|
+|BN|Lombok|반복적인 Java 코드를 줄여주는 라이브러리|<a href="https://mvnrepository.com/artifact/org.projectlombok/lombok">Project Lombok</a>|-|-|
+|BN|Spring Data JPA|JPA를 사용하여 데이터베이스와의 상호작용을 해주는 스프링 스타터 패키지|<a href="https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-data-jpa">Spring Boot Starter Data JPA</a>|-|-|
+|BN|Data Validation|입력된 데이터의 유효성을 검사하기 위한 라이브러리|<a href="https://mvnrepository.com/artifact/org.hibernate.validator/hibernate-validator">Hibernate Validator Engine</a>|<a href="https://mvnrepository.com/artifact/jakarta.validation/jakarta.validation-api">Jakarta Validation API</a>|-|
+|BN|Spring Mail|이메일 전송 기능을 구현해주는 스프링 스타터 패키지|<a href="https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-mail">Spring Boot Starter Mail</a>|-|-|
+|BN|Spring Security|애플리케이션의 보안(인증 및 인가) 기능을 제공하는 스프링 스타터 패키지|<a href="https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-security">Spring Boot Starter Security</a>|-|-|
+|BN|OAuth2|OAuth2를 사용하여 인증 및 권한 부여를 구현해주는 스프링 스타터 패키지|<a href="https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-oauth2-client">Spring Boot Starter OAuth2 Client</a>|-|-|
+|BN|JWT|JSON Web Token을 생성하고 검증하기 위한 라이브러리|<a href="https://mvnrepository.com/artifact/io.jsonwebtoken/jjwt-api">JJWT :: API</a>|-|-|
+|BN|Imgscalr|이미지 크기를 조정하기 위한 라이브러리|<a href="https://mvnrepository.com/artifact/org.imgscalr/imgscalr-lib">Imgscalr A Java Image Scaling Library</a>|-|-|
+|DB|JDBC API|JDBC를 사용하여 데이터베이스와 상호작용하는 기능을 제공하는 스프링 스타터 패키지|<a href="https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-jdbc">Spring Boot Starter JDBC</a>|-|-|
+|DB|MySQL Driver|MySQL 데이터베이스에 연결하기 위한 JDBC 드라이버|<a href="https://mvnrepository.com/artifact/com.mysql/mysql-connector-j">MySQL Connector/J</a>|-|-|
+|DB|Redis|Redis 데이터베이스와 상호작용하기 위한 스프링 스타터 패키지|<a href="https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-data-redis">Spring Boot Starter Data Redis</a>|-|-|
+|DEVOPS|JUnit|자바 애플리케이션의 단위 테스트를 위한 프레임워크|<a href="https://mvnrepository.com/artifact/org.junit.platform/junit-platform-launcher">JUnit Platform Launcher</a>|-|-|
 
 
 ERD[]
