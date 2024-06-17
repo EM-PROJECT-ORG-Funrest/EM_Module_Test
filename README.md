@@ -102,7 +102,7 @@ SKILLS
 
 DEPENDENCIES LIST
 ---
-|CAT|NAME|DESCRIPTION|LINK|-|-|
+|CAT|NAME|DESCRIPTION|LINK1|LINK2|LINK3|
 |-|-|-|-|-|-|
 |FN|Bootstrap5|프론트 엔드 프레임워크 및 오픈 소스 프로젝트|<a href="https://getbootstrap.kr/docs/5.0/getting-started/introduction/">Bootstrap v5.0</a>|-|-|
 |FN|Google Fonts|다양한 웹 글꼴을 제공하는 라이브러리|<a href="https://fonts.google.com/icons">Google Fonts</a>|-|-|
@@ -124,6 +124,7 @@ DEPENDENCIES LIST
 |DB|Redis|Redis 데이터베이스와 상호작용하기 위한 스프링 스타터 패키지|<a href="https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-data-redis">Spring Boot Starter Data Redis</a>|-|-|
 |DEVOPS|JUnit|자바 애플리케이션의 단위 테스트를 위한 프레임워크|<a href="https://mvnrepository.com/artifact/org.junit.platform/junit-platform-launcher">JUnit Platform Launcher</a>|-|-|
 
+<br><br><br><br>
 
 ERD[]
 ---
