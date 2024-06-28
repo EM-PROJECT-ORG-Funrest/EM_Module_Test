@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=71d089&height=300&section=header&text=funrest%20project&fontSize=90&fontColor=black) <hr>
-
 ![header](https://capsule-render.vercel.app/api?type=venom&color=71d089&height=300&section=header&text=funrest%20&fontSize=90&fontColor=black) <hr>
 
 
