@@ -44,7 +44,7 @@ MEMBER
  |NAME|ROLE|DETAILS|DESCRIPTION|
  |-|-|-|-|
  |김규호|FN, BN|메인페이지 - 상품 조회, 회원 마이페이지|-|
- |안지윤|FN, BN|OAUTH(카카오/네이버), 결제페이지|-|
+ |안지윤|FN, BN|OAUTH(카카오/네이버), 결제,환불 페이지(포트원)|-|
  |옥은진|FN, BN|회원가입/로그인/로그아웃, 상품 찜하기|-|
  |홍재성|FN, BN|프론트 연결, 상품 등록/삭제, 관리자 - 회원/상품 관리|-|
 
@@ -59,7 +59,6 @@ HISTORY
  |2024-04-08|[인터페이스 구현](2024-04-08)|
  |2024-04-26|[서버프로그램 구현](2024-04-26)|
  |2024-05-03|[통합 구현](2024-05-03)|
- |-|-|
  |-|-|
 
 <br><br><br><br>
@@ -128,6 +127,7 @@ DEPENDENCIES LIST
 
 ERD[]
 ---
+[ERD 파일](ERD) <br>
 <img alt="erd-1" src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/7aaf0f45-fe03-456a-83c8-569f0cd2626e"/>
 <img alt="erd-1" src="https://github.com/EM-PROJECT-ORG-Funrest/EM_Module_Test/assets/102271645/82874e33-12cc-4b18-a86d-e744b2fbcccc"/>
 
