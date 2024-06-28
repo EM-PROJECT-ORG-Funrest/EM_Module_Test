@@ -197,7 +197,7 @@ ERD[]
 <br><br><br><br>
 
 
-FILE TREES[JSP/SERVLET]
+FILE TREES[SPRING]
 ---
 ```
 Windows 볼륨에 대한 폴더 경로의 목록입니다.
